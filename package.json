@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/cycjimmy/fbx2three#readme",
   "devDependencies": {
-    "three": "^0.108.0",
+    "three": "^0.125.0",
     "trash-cli": "^3.0.0"
   }
 }
