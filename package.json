@@ -1,7 +1,7 @@
 {
-  "name": "fbx2three",
-  "version": "0.0.1",
-  "description": "fbx2three",
+  "name": "node-project-tool-fbx2three",
+  "version": "0.0.2",
+  "description": "node-project-tool-fbx2three",
   "main": "index.js",
   "scripts": {
     "start": "npm run trash:dist && node index.js handle",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cycjimmy/fbx2three.git"
+    "url": "git+https://github.com/cycjimmy/node-project-tool-fbx2three.git"
   },
   "author": "cycjimmy <cycjimmy@gmail.com> (https://github.com/cycjimmy)",
   "bugs": {
-    "url": "https://github.com/cycjimmy/fbx2three/issues"
+    "url": "https://github.com/cycjimmy/node-project-tool-fbx2three/issues"
   },
-  "homepage": "https://github.com/cycjimmy/fbx2three#readme",
+  "homepage": "https://github.com/cycjimmy/node-project-tool-fbx2three#readme",
   "devDependencies": {
-    "three": "^0.125.0",
-    "trash-cli": "^3.0.0"
+    "three": "^0.134.0",
+    "trash-cli": "^4.0.0"
   }
 }

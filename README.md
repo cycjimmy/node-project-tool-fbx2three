@@ -1,4 +1,4 @@
-# fbx2three
+# node-project-tool-fbx2three
 
 ## Installation
 ```shell
