@@ -19,6 +19,6 @@
   "homepage": "https://github.com/cycjimmy/node-project-tool-fbx2three#readme",
   "devDependencies": {
     "three": "^0.134.0",
-    "trash-cli": "^4.0.0"
+    "trash-cli": "^7.2.0"
   }
 }
